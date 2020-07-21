@@ -3,6 +3,7 @@
 
 ---
 
+![image](https://github.com/CoreyHuang/ALPHAcamp_Rubbish-Generator/blob/master/pic.png)
 ## Features(功能描述):
 #### 使用者可以瀏覽代表三種職業的印象圖片。
 #### 使用者可以點擊"說幹話"的按鈕後隨機產生一句話。
