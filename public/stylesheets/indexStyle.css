@@ -1,0 +1,45 @@
+.titleText {
+  font-size: 30px;
+}
+
+img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.outputText {
+  min-width: 80%;
+  min-height: 40px;
+  line-height: 40px;
+  margin-left: 1rem;
+  border: 3px solid rgb(62, 114, 192);
+  background-color: #f1f7f2;
+  border-radius: 5px;
+  padding-left: 1rem;
+}
+
+.outputArea {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+  height: 40px;
+}
+
+.rStyle {
+   border: 1px solid rgb(228, 77, 77);
+   background-color: #FFB0B0;
+   cursor: pointer;
+}
+ 
+.gStyle {
+  border: 1px solid rgb(104, 128, 69);
+  background-color: #70e289;
+  cursor: pointer;
+}
+
+.bStyle {
+  border: 1px solid rgb(49, 37, 156);
+  background-color: #7173f1;
+  cursor: pointer;
+}
